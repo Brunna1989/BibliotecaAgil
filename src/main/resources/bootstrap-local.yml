@@ -1,0 +1,15 @@
+spring:
+  main.banner-mode: "off"
+  application:
+    group: pucrsBiblioteca
+      name: pucrs-biblioteca-agil
+
+
+feature:
+  swagger: true
+server:
+  port: 8080
+  compression:
+    mime-types: application/json,application/javascript,text/html,text/css,text/plain
+
+management.metrics.export.influx.enabled: false

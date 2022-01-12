@@ -1,0 +1,8 @@
+spring:
+  main.banner-mode: "off"
+  application:
+    group: atmChallenge
+    name: atm-challenge-api
+
+server.port: 8080
+server.contextPath: /biblioteca

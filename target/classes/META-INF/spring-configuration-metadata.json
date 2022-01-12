@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "feature.swagger",
+      "type": "java.lang.String",
+      "description": "Description for feature.swagger."
+    }
+  ],
+  "hints": []
+}

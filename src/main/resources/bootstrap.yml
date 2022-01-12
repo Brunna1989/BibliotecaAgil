@@ -1,0 +1,8 @@
+spring:
+  main.banner-mode: "off"
+  application:
+    group: pucrsBiblioteca
+    name: pucrs-biblioteca-agil
+
+server.port: 8080
+server.contextPath: /biblioteca
